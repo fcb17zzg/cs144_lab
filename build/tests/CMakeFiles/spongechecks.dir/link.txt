@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-8/root/usr/bin/ar qc libspongechecks.a CMakeFiles/spongechecks.dir/send_equivalence_checker.cc.o CMakeFiles/spongechecks.dir/tcp_fsm_test_harness.cc.o CMakeFiles/spongechecks.dir/byte_stream_test_harness.cc.o CMakeFiles/spongechecks.dir/network_interface_test_harness.cc.o
+/opt/rh/devtoolset-8/root/usr/bin/ranlib libspongechecks.a

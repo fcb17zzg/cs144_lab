@@ -1,0 +1,148 @@
+Start testing: Mar 19 06:49 PDT
+----------------------------------------------------------
+Unable to find executable: /root/lab/sponge/build/tests/byte_stream_construction
+26/169 Testing: t_byte_stream_construction
+26/169 Test: t_byte_stream_construction
+Command: ""
+Directory: /root/lab/sponge/build
+"t_byte_stream_construction" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_construction" end time: Mar 19 06:49 PDT
+"t_byte_stream_construction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /root/lab/sponge/build/tests/byte_stream_one_write
+27/169 Testing: t_byte_stream_one_write
+27/169 Test: t_byte_stream_one_write
+Command: ""
+Directory: /root/lab/sponge/build
+"t_byte_stream_one_write" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_one_write" end time: Mar 19 06:49 PDT
+"t_byte_stream_one_write" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /root/lab/sponge/build/tests/byte_stream_two_writes
+28/169 Testing: t_byte_stream_two_writes
+28/169 Test: t_byte_stream_two_writes
+Command: ""
+Directory: /root/lab/sponge/build
+"t_byte_stream_two_writes" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_two_writes" end time: Mar 19 06:49 PDT
+"t_byte_stream_two_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /root/lab/sponge/build/tests/byte_stream_capacity
+29/169 Testing: t_byte_stream_capacity
+29/169 Test: t_byte_stream_capacity
+Command: ""
+Directory: /root/lab/sponge/build
+"t_byte_stream_capacity" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_capacity" end time: Mar 19 06:49 PDT
+"t_byte_stream_capacity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /root/lab/sponge/build/tests/byte_stream_many_writes
+30/169 Testing: t_byte_stream_many_writes
+30/169 Test: t_byte_stream_many_writes
+Command: ""
+Directory: /root/lab/sponge/build
+"t_byte_stream_many_writes" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_many_writes" end time: Mar 19 06:49 PDT
+"t_byte_stream_many_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/169 Testing: t_webget
+31/169 Test: t_webget
+Command: "/root/lab/sponge/tests/webget_t.sh"
+Directory: /root/lab/sponge/build
+"t_webget" start time: Mar 19 06:49 PDT
+Output:
+----------------------------------------------------------
+/root/lab/sponge/tests/webget_t.sh:行3: ./apps/webget: 没有那个文件或目录
+ERROR: webget returned output that did not match the test's expectations
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Failed.
+"t_webget" end time: Mar 19 06:49 PDT
+"t_webget" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /root/lab/sponge/build/doctests/address_dt
+53/169 Testing: t_address_dt
+53/169 Test: t_address_dt
+Command: ""
+Directory: /root/lab/sponge/build
+"t_address_dt" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_address_dt" end time: Mar 19 06:49 PDT
+"t_address_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /root/lab/sponge/build/doctests/parser_dt
+54/169 Testing: t_parser_dt
+54/169 Test: t_parser_dt
+Command: ""
+Directory: /root/lab/sponge/build
+"t_parser_dt" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_parser_dt" end time: Mar 19 06:49 PDT
+"t_parser_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /root/lab/sponge/build/doctests/socket_dt
+55/169 Testing: t_socket_dt
+55/169 Test: t_socket_dt
+Command: ""
+Directory: /root/lab/sponge/build
+"t_socket_dt" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_socket_dt" end time: Mar 19 06:49 PDT
+"t_socket_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 19 06:49 PDT
